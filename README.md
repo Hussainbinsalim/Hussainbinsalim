@@ -4,44 +4,54 @@
 <br>
 
 <div align="center">
-  <!-- Profile Views -->
-  <a href="https://github.com/Hussainbinsalim" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Hussainbinsalim&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" />
-  </a>
-
-  <!-- Total Stars -->
-  <a href="https://github.com/Hussainbinsalim?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Hussainbinsalim?style=for-the-badge&label=Stars&color=bf616a&logo=github" />
-  </a>
-
-  <!-- Followers -->
-  <a href="https://github.com/Hussainbinsalim?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Hussainbinsalim?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
-  </a>
+  <table border="0">
+    <tr>
+      <td>
+        <!-- Profile Views -->
+        <a href="https://github.com/Hussainbinsalim" target="_blank">
+          <img src="https://komarev.com/ghpvc/?username=Hussainbinsalim&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" />
+        </a>
+      </td>
+      <td>
+        <!-- Total Stars -->
+        <a href="https://github.com/Hussainbinsalim?tab=repositories&sort=stargazers" target="_blank">
+          <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Hussainbinsalim?style=for-the-badge&label=Stars&color=bf616a&logo=github" />
+        </a>
+      </td>
+      <td>
+        <!-- Followers -->
+        <a href="https://github.com/Hussainbinsalim?tab=followers" target="_blank">
+          <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Hussainbinsalim?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<!-- Coding GIF -->
-<!-- Replaced with your provided GIF -->
-<img align="left" alt="coding-gif" width="300" src="216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
-
-<!-- About Me -->
-<h3 align="left">💫 About Me</h3>
-<p>
-  🎓 I am currently pursuing <b>B.Tech in Computer Science</b> at Mar Baselios College of Engineering and Technology, Trivandrum.<br>
-  💻 I am a passionate <b>Fullstack Developer</b> highly enthusiastic about AI and Machine Learning.<br>
-  🤝 I possess strong <b>leadership qualities</b> and enjoy taking charge to deliver projects.<br>
-  ⚡ I am continuously pushing my boundaries in Natural Language Processing, Computer Vision, and modern Web Tech.<br>
-</p>
-
-<h3 align="left">🧲 Drop me a line:</h3>
-<div align="left">
-  
-  <a href="mailto:your_email@example.com"><img width="35px" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img width="35px" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
-  <a href="#" target="_blank"><img width="35px" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
-</div>
+<!-- About Me Section -->
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="top" width="300">
+      <img alt="coding-gif" width="250" src="216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
+    </td>
+    <td align="left" valign="top">
+      <h3>💫 About Me</h3>
+      <p>
+        🎓 I am currently pursuing <b>B.Tech in Computer Science</b> at Mar Baselios College of Engineering and Technology, Trivandrum.<br>
+        💻 I am a passionate <b>Fullstack Developer</b> highly enthusiastic about AI and Machine Learning.<br>
+        🤝 I possess strong <b>leadership qualities</b> and enjoy taking charge to deliver projects.<br>
+        ⚡ I am continuously pushing my boundaries in Natural Language Processing, Computer Vision, and modern Web Tech.<br>
+      </p>
+      <br>
+      <h3>🧲 Drop me a line:</h3>
+      <a href="mailto:hussain.salim.official@gmail.com"><img width="35px" src="hussain/hussain_main/icons/gmail_new_logo.png" alt="Gmail" style="margin-right: 10px;" /></a>
+      <a href="https://www.linkedin.com/in/hussain-salim-849422308" target="_blank"><img width="35px" src="hussain/hussain_main/icons/linkedin-blue.png" alt="LinkedIn" style="margin-right: 10px;" /></a>
+      <a href="#" target="_blank"><img width="35px" src="hussain/hussain_main/icons/11zon_cropped.png" alt="Portfolio" style="margin-right: 10px;" /></a>
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>
@@ -75,7 +85,7 @@
 <!-- Ending -->
 <div align="center">
   <!-- Replaced with your provided GIF -->
-  <img src="3.gif" alt="Ending GIF" style="width:1000px; height:auto;" />
+  <img src="3.gif" alt="Ending GIF" style="width: 100%; max-width: 1000px; height: auto;" />
   <br>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
   
@@ -83,3 +93,20 @@
     ⚠️ This README is designed by <strong>@Hussainbinsalim</strong>.
   </p>
 </div>
+
+## Hi there 👋
+
+<!--
+**Hussainbinsalim/Hussainbinsalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
